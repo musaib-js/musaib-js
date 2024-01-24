@@ -5,7 +5,18 @@
 - 📫 How to reach out to me?: Drop me a mail at musaibaltafurahman@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love/hate programming
-  
-<br>
+ <br> 
+<hr>
 
-[![Musaib's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=musaib-js&theme=react-dark)](https://github.com/musaib-js/github-readme-activity-graph)
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=musaib-js&show_icons=true&theme=dark&locale=en&layout=compact" alt="Musaib Altaf" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=musaib-js&show_icons=true&theme=dark&locale=en" alt="Musaib Altaf" /></p>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=musaib-js&theme=dark" alt="Musaib Altaf" /></p>
+
+<br/>
+<br/>
+
+[![Musaib's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=musaib-js&theme=react-dark)](https://github-readme-activity-graph.vercel.app/graph?username=musaib-js&theme=react-dark)
