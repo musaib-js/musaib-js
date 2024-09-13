@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Product Engineering Consultant at Polynomial.AI
+- 🔭 I’m currently working as a ML Engineer at Polynomial.AI
 - 💬 Ask me about - Django, NodeJS, React, ExpressJS
 - 📫 How to reach out to me?: Drop me a mail at musaibaltafurahman@gmail.com
 - 😄 Pronouns: he/him
