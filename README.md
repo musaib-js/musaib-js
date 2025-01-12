@@ -14,7 +14,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=musaib-js&show_icons=true&theme=dark&locale=en" alt="Musaib Altaf" /></p>
 
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=musaib-js&theme=highcontrast)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=musaib-js&theme=highcontrast" alt="GitHub Streak" /></a>
 
 <br/>
 <br/>
