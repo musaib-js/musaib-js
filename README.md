@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as an ML Engineer at Polynomial.AI
-- 💬 Ask me about - Django, NodeJS, React, ExpressJS, Flask, MongoDB
+- 🔭 I’m currently working as an AI Engineer!
+- 💬 Ask me about - LLMs, RAG, Agents, Django, NodeJS, React, ExpressJS, Flask, MongoDB
 - 📫 How to reach out to me?: Drop me a mail at musaibaltafurahman@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love/hate programming
