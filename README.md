@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as an AI Engineer!
-- 💬 Ask me about - LLMs, RAG, Agents, Django, NodeJS, React, ExpressJS, Flask, MongoDB
-- 📫 How to reach out to me?: Drop me a mail at musaibaltafurahman@gmail.com
+- 🔭 I’m currently working as the Head of Applied AI and Security at Polynomial AI!
+- 💬 Ask me about - Applied AI, AI Security, AI Governance, LLMs, RAG, Agents, Django, NodeJS, React, ExpressJS, Flask, MongoDB
+- 📫 How to reach out to me?: Drop me a mail at musaibaltafurahman@gmail.com or musaib.altaf@polynomial.ai
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love/hate programming
  <br> 
